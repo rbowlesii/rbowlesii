@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rachid 
 
 🎯 **Aspiring Data Scientist | Data Analyst | Data Engineer**  
-🎓 Master's in Data Science *(Eastern University, Dec 2025)*  
+🎓 Master's in Data Science *(Eastern University, Aug 2025)*  
 🎓 Bachelor's in Physics *(Troy University, 2021)*  
 
 I’m passionate about turning data into actionable insights and building **data-driven solutions** that solve real-world problems. I have hands-on experience in **Python, R, SQL, Machine Learning, Deep Learning, and Data Visualization**.  
